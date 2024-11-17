@@ -13,7 +13,8 @@ This repository contains the simulation file and the necessary codes to process 
 
 - **`Import_with_DER.m`**: A MATLAB script to organize voltage and current data exported from the PowerFactory simulation when a distributed energy resource is integrated.
 
-- **`EMTSignalAnalyzer_Installer.exe`**: A program developed in MATLAB by the authors to facilitate EMT signal analysis. The input parameters for the program are `.mat` files obtained after using the "Import_with_DER" script. The program can easily display graphs and allows data export for future analyses.
+- **`EMTSignalAnalyzer_Installer_LINK.txt`**: A file containing the link to the Google Drive folder for downloading the EMTSignalAnalyzer program. This program was developed in MATLAB by the authors to facilitate EMT signal analysis. The input for this program requires a folder containing `.mat` files with the EMT signals to be analyzed, which can be obtained after using the "Import_with_DER" script. The program can easily display graphs and allows data export for future analyses.
+
 
 - **`1 MW`**: A folder containing `.mat` files for different connection angles for a 1 MW distributed resource based on solar systems.
 
